@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Ejercicio3</string>
+    <string name="red1">#ff0000</string>
+    <string name="red2">#ee0000</string>
+    <string name="red3">#dd0000</string>
+    <string name="red4">#cc0000</string>
+    <string name="red5">#bb0000</string>
+    <string name="red6">#aa0000</string>
+    <string name="green1">#00ff00</string>
+    <string name="green2">#00ee00</string>
+    <string name="green3">#00dd00</string>
+    <string name="green4">#00cc00</string>
+    <string name="green5">#00bb00</string>
+    <string name="green6">#00aa00</string>
+    <string name="blue1">#0000ff</string>
+    <string name="blue2">#0000ee</string>
+    <string name="blue3">#0000dd</string>
+    <string name="blue4">#0000cc</string>
+    <string name="blue5">#0000bb</string>
+    <string name="blue6">#0000aa</string>
+</resources>
